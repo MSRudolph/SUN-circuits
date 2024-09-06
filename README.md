@@ -40,8 +40,8 @@ This repository aims to benchmark different parametrizations of these circuits, 
 Here are the relevant Jupyter notebooks for the project:
 
 - [Notebook 1: Random Hamiltonian(VQE)](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/SU(N)remap.ipynb)
-- [Notebook 2: two_qubit_decomp_to_su4]([notebooks/vqc_implementation.ipynb](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py))
-- [Notebook 3: Results Analysis]([Results](https://github.com/MSRudolph/SUN-circuits/tree/main/Results))
+- [Notebook 2: two_qubit_decomp_to_su4]((https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py)
+- [Notebook 3: Results Analysis](https://github.com/MSRudolph/SUN-circuits/tree/main/Results)
 
   ## Project Presentation
 
