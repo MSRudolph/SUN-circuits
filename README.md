@@ -35,15 +35,17 @@ This repository aims to benchmark different parametrizations of these circuits, 
     pip install -r requirements.txt
     ```
 
-## Usage
+## Relevant Notebooks
 
-- **Notebooks**: The Jupyter notebooks demonstrate various circuit designs and their applications. To run them, use:
+Here are the relevant Jupyter notebooks for the project:
 
-    ```bash
-    jupyter notebook
-    ```
+- [Notebook 1: Random Hamiltonian(VQE)](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/SU(N)remap.ipynb)
+- [Notebook 2: two_qubit_decomp_to_su4]([notebooks/vqc_implementation.ipynb](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py))
+- [Notebook 3: Results Analysis]([Results](https://github.com/MSRudolph/SUN-circuits/tree/main/Results))
 
-- **Core Functions**: Functions for quantum gate decomposition, benchmarking, and other utilities are located in the `Parameter-Mapping/` directory. These can be imported and used in your own scripts or notebooks.
+  ## Project Presentation
 
-## Project Structure
+You can view the project presentation here:
+
+- [Project Presentation: Quantum Circuit Modeling for Optimization]([presentation/quantum_circuit_modeling_for_optimization.pdf](https://docs.google.com/presentation/d/18jQZ-QX5WxFFSz0UU5kJFxFqIJPaEOSIsKHJ_vCspZQ/edit?usp=sharing))
 
