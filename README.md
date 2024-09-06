@@ -13,28 +13,6 @@ This repository benchmarks various parameterizations of quantum circuits, specif
 
 This repository aims to benchmark different parametrizations of these circuits, comparing their efficiency and accuracy in various contexts.
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/MSRudolph/SUN-circuits.git
-    cd SUN-circuits
-    ```
-
-2. Create a virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Relevant Notebooks
 
 Here are the relevant Jupyter notebooks for the project:
