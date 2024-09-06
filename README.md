@@ -40,12 +40,12 @@ This repository aims to benchmark different parametrizations of these circuits, 
 Here are the relevant Jupyter notebooks for the project:
 
 - [Notebook 1: Random Hamiltonian(VQE)](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/SU(N)remap.ipynb)
-- [Notebook 2: two_qubit_decomp_to_su4]((https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py)
+- [Notebook 2: two_qubit_decomp_to_su4](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py)
 - [Notebook 3: Results Analysis](https://github.com/MSRudolph/SUN-circuits/tree/main/Results)
 
   ## Project Presentation
 
 You can view the project presentation here:
 
-- [Project Presentation: Quantum Circuit Modeling for Optimization]([presentation/quantum_circuit_modeling_for_optimization.pdf](https://docs.google.com/presentation/d/18jQZ-QX5WxFFSz0UU5kJFxFqIJPaEOSIsKHJ_vCspZQ/edit?usp=sharing))
+- [Project Presentation: Quantum Circuit Modeling for Optimization](https://docs.google.com/presentation/d/18jQZ-QX5WxFFSz0UU5kJFxFqIJPaEOSIsKHJ_vCspZQ/edit?usp=sharing)
 
