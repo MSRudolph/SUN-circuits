@@ -17,7 +17,7 @@ This repository aims to benchmark different parametrizations of these circuits, 
 
 Here are the relevant Jupyter notebooks for the project:
 
-- [Notebook 1: Random Hamiltonian(VQE)](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/SU(N)remap.ipynb)
+- [Notebook 1: Random Hamiltonian(VQE)](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/Random_Hamiltonian(Remapped).ipynb)
 - [Notebook 2: Ising Model](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/ising_model_remapped.ipynb)
 - [Notebook 3: Results Analysis](https://github.com/MSRudolph/SUN-circuits/tree/main/Results)
 - [Code: two_qubit_decomp_to_su4](https://github.com/MSRudolph/SUN-circuits/blob/main/Codebook/two_qubit_decomp_to_su4.py)
